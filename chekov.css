@@ -10,3 +10,4 @@ name.soleni {font-family: 'Times New Roman', Times, serif; color:green; font-siz
 name.tuzenbach {font-family: 'Times New Roman', Times, serif; color:orangered; font-size:25;}
 name.chebutikin {font-family: 'Times New Roman', Times, serif; color:blue; font-size:25;}
 table, th, td {width:50%; text-align:center; border-collapse: collapse;font-family:'Times New Roman', Times, serif; margin: 100px 13em 15pt 10%; background-color:#C0C0C0; outline:auto; border:1px solid;}
+char:hover {outline:auto; text-shadow:2px 3px 5px lightblue;}
